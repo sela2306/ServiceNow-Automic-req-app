@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="Steering Wheel Covers">b0181a3847162910c880d921236d4370</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-17 03:31:16</sys_created_on>
+        <sys_id>9a295a7847162910c880d921236d4326</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Standard Employee Questions.Steering Wheel Covers</sys_name>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_update_name>io_set_item_9a295a7847162910c880d921236d4326</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-17 03:31:16</sys_updated_on>
+        <variable_set display_value="Standard Employee Questions">e01cab1a4f334200086eeed18110c71f</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</application>
+        <file_path/>
+        <instance_id>e1ff2908db11a1980b9d21c405961979</instance_id>
+        <instance_name>dev154600</instance_name>
+        <name>io_set_item_9a295a7847162910c880d921236d4326</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="Steering Wheel Covers">b0181a3847162910c880d921236d4370</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-17 03:31:16</sys_created_on><sys_id>9a295a7847162910c880d921236d4326</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Standard Employee Questions.Steering Wheel Covers</sys_name><sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package><sys_policy/><sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope><sys_update_name>io_set_item_9a295a7847162910c880d921236d4326</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-17 03:31:16</sys_updated_on><variable_set display_value="Standard Employee Questions">e01cab1a4f334200086eeed18110c71f</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>54340068</payload_hash>
+        <record_name>Standard Employee Questions.Steering Wheel Covers</record_name>
+        <reverted_from/>
+        <source>4270922b478ae110c880d921236d431a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-17 03:31:16</sys_created_on>
+        <sys_id>5a295a7847162910c880d921236d432d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1878d444c490000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-17 03:31:16</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>de295a784e1629102a53ae1f93448f2c</update_guid>
+        <update_guid_history>de295a784e1629102a53ae1f93448f2c:54340068</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">6479e6b847562910c880d921236d4359</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-17 04:42:25</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>86002cba043b4f4b8a56e19bc9020821</sys_id>
+        <sys_metadata>9a295a7847162910c880d921236d4326</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Standard Employee Questions.Steering Wheel Covers</sys_name>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_scope_delete display_value="">43c3f1660a324e80ad97b01d2e9ef9c4</sys_scope_delete>
+        <sys_update_name>io_set_item_9a295a7847162910c880d921236d4326</sys_update_name>
+        <sys_update_version display_value="io_set_item_9a295a7847162910c880d921236d4326">5a295a7847162910c880d921236d432d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-17 04:42:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

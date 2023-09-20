@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_1040252_auto_req.automic_request_user" name="x_1040252_auto_req.automic_request_user">9859c6a3478ae110c880d921236d43c3</contains>
+        <role display_value="x_1040252_auto_req.admin" name="x_1040252_auto_req.admin">61c8a700475e6510c880d921236d439b</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-15 01:26:00</sys_created_on>
+        <sys_id>4459ef00475e6510c880d921236d430f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1040252_auto_req.automic_request_user.x_1040252_auto_req.admin</sys_name>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_update_name>sys_user_role_contains_4459ef00475e6510c880d921236d430f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-15 01:26:00</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement">
+    <announcement action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <click_target/>
+        <details/>
+        <details_link_text/>
+        <details_page/>
+        <details_url/>
+        <dismiss_options>dismissible</dismiss_options>
+        <display_first>false</display_first>
+        <display_style display_value="Normal">704dedd6e7d4030075c2a117c2f6a91b</display_style>
+        <from>2023-04-13 06:44:02</from>
+        <glyph>bullhorn</glyph>
+        <glyph_alt_text/>
+        <name>Automic  Application  Upgradation</name>
+        <public>true</public>
+        <roles/>
+        <show_for_unauthenticated_users_only>false</show_for_unauthenticated_users_only>
+        <summary>Automic is happy to announce 10% off in your total billing if booking is done between 12th of April  to 30th April.&#13;
+It applies to all types of services.</summary>
+        <sys_class_name>announcement</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 07:01:55</sys_created_on>
+        <sys_id>7a7e801d475a6910c880d921236d439f</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Automic  Application  Upgradation</sys_name>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_update_name>announcement_7a7e801d475a6910c880d921236d439f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 04:11:30</sys_updated_on>
+        <title>Automic  Application  Upgradation</title>
+        <to>2023-05-01 06:44:52</to>
+        <type>67eaf134e7a3320075c2a117c2f6a9d2,52fa79f8e763320075c2a117c2f6a991</type>
+    </announcement>
+    <sys_translated_text action="delete_multiple" query="documentkey=7a7e801d475a6910c880d921236d439f"/>
+</record_update>

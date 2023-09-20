@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>x_1040252_auto_req.automic_request_user,admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 05:28:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>06ad4ea7478ae110c880d921236d439b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Automic Request App</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_update_name>sys_app_application_06ad4ea7478ae110c880d921236d439b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-14 00:44:18</sys_updated_on>
+        <title>Automic Request App</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

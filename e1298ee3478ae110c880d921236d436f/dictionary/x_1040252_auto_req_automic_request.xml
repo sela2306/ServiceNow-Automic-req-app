@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="248d422b478ae110c880d921236d43c9" label="Automic Request" max_length="40" name="x_1040252_auto_req_automic_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Any Special Instructions" max_length="4000" name="any_special_instructions" type="string"/>
+        <element label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Booking Date" mandatory="true" max_length="40" name="booking_date" type="glide_date_time"/>
+        <element label="Comments" max_length="300" name="comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" mandatory="true" max_length="40" name="email" type="string" use_dependent_field="true"/>
+        <element dynamic_creation="true" label="First Name" mandatory="true" max_length="40" name="first_name" type="string" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" mandatory="true" max_length="40" name="last_name" type="string" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Make" max_length="40" name="make" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model" max_length="40" name="model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone Number" mandatory="true" max_length="40" name="phone_number" type="string" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Registration No" mandatory="true" max_length="40" name="registration_no" type="string"/>
+        <element choice="3" default="open" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Open" sequence="100" value="open"/>
+                <element inactive_on_update="false" label="In Progress" sequence="200" value="inprogress"/>
+                <element inactive_on_update="false" label="Closed" sequence="300" value="closed"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Type of Service" mandatory="true" max_length="40" name="type_of_service" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Roadside Assist" sequence="0" value="Roadside Assist"/>
+                <element inactive_on_update="false" label="Maitenance/Repair" sequence="100" value="1"/>
+                <element inactive_on_update="false" label="Tyres" sequence="200" value="2"/>
+                <element inactive_on_update="false" label="Log Book Service" sequence="300" value="3"/>
+                <element inactive_on_update="false" label="Roadside Assit" sequence="400" value="4"/>
+                <element inactive_on_update="false" label="Breakes" sequence="500" value="5"/>
+                <element inactive_on_update="false" label="Suspension" sequence="600" value="6"/>
+                <element inactive_on_update="false" label="Air Conditioning" sequence="700" value="7"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Vehicle Type" max_length="40" name="vehicle_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Sedan" sequence="100" value="1"/>
+                <element inactive_on_update="false" label="Hatchback" sequence="200" value="2"/>
+                <element inactive_on_update="false" label="SUV" sequence="300" value="3"/>
+                <element inactive_on_update="false" label="UTE" sequence="400" value="4"/>
+                <element inactive_on_update="false" label="Convertible" sequence="500" value="5"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

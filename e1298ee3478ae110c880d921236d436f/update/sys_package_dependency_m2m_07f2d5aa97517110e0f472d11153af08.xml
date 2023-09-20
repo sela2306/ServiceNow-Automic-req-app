@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">15db30d1b9103110d0adbb64e3a1e955</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-08 05:36:49</sys_created_on>
+        <sys_id>07f2d5aa97517110e0f472d11153af08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-08 05:36:49</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

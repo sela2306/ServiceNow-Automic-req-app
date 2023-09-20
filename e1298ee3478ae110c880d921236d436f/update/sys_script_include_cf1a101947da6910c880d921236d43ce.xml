@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_1040252_auto_req.AutomicScriptInclude</api_name>
+        <caller_access>1</caller_access>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>AutomicScriptInclude</name>
+        <script><![CDATA[var AutomicScriptInclude = Class.create();
+AutomicScriptInclude.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	
+	getBookingDateCount: function(){
+		
+		var count = 0;
+		var sdate = this.getParameter('sysparm_booking_date');
+		
+		var d = new GlideDate();
+		d.setDisplayValue(sdate);	
+		var bdate = d.getDisplayValue();
+		
+		var rec = new GlideRecord('x_1040252_auto_req_automic_request');
+		rec.addEncodedQuery("booking_dateON"+bdate+"@javascript:gs.dateGenerate('"+bdate+"','start')@javascript:gs.dateGenerate('"+bdate+"','end')");
+		rec.query();
+		while(rec.next()){
+			
+			count++;
+		}
+
+		return count;	
+
+	},
+
+    type: 'AutomicScriptInclude'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 07:37:16</sys_created_on>
+        <sys_id>cf1a101947da6910c880d921236d43ce</sys_id>
+        <sys_mod_count>28</sys_mod_count>
+        <sys_name>AutomicScriptInclude</sys_name>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_update_name>sys_script_include_cf1a101947da6910c880d921236d43ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-20 09:27:10</sys_updated_on>
+    </sys_script_include>
+</record_update>

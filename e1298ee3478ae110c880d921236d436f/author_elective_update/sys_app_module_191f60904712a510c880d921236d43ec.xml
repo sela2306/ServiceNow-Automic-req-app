@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Automic Request App">06ad4ea7478ae110c880d921236d439b</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Automic Tasks</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1040252_auto_req_automic_task</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_1040252_auto_req.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-15 06:30:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>191f60904712a510c880d921236d43ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Automic Tasks</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_update_name>sys_app_module_191f60904712a510c880d921236d43ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-15 06:30:50</sys_updated_on>
+        <timeline_page/>
+        <title>Automic Tasks</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</application>
+        <file_path/>
+        <instance_id>e1ff2908db11a1980b9d21c405961979</instance_id>
+        <instance_name>dev154600</instance_name>
+        <name>sys_app_module_191f60904712a510c880d921236d43ec</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Automic Request App">06ad4ea7478ae110c880d921236d439b</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Automic Tasks</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1040252_auto_req_automic_task</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_1040252_auto_req.admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-15 06:30:50</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>191f60904712a510c880d921236d43ec</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Automic Tasks</sys_name><sys_overrides/><sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package><sys_policy/><sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope><sys_update_name>sys_app_module_191f60904712a510c880d921236d43ec</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-15 06:30:50</sys_updated_on><timeline_page/><title>Automic Tasks</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>871002881</payload_hash>
+        <record_name>Automic Tasks</record_name>
+        <reverted_from/>
+        <source>4270922b478ae110c880d921236d431a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-15 06:30:50</sys_created_on>
+        <sys_id>d51f20504752a510c880d921236d4394</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187839bfb990000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-15 06:30:50</sys_updated_on>
+        <type>Module</type>
+        <update_guid>111f2050e552a510d9cc2f92b2614294</update_guid>
+        <update_guid_history>111f2050e552a510d9cc2f92b2614294:871002881</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">8e14b0944752a510c880d921236d4343</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-15 06:52:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>15dcb3360aee45fd82ae5c66e5f2fae9</sys_id>
+        <sys_metadata>191f60904712a510c880d921236d43ec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Automic Tasks</sys_name>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_scope_delete display_value="">43c3f1660a324e80ad97b01d2e9ef9c4</sys_scope_delete>
+        <sys_update_name>sys_app_module_191f60904712a510c880d921236d43ec</sys_update_name>
+        <sys_update_version display_value="sys_app_module_191f60904712a510c880d921236d43ec">d51f20504752a510c880d921236d4394</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-15 06:52:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

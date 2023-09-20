@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">ceff73d9471aa910c880d921236d43b2</sp_column>
+        <sp_widget display_value="Topic Content">9c691d40c31030102ec1a589a840dd4c</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 00:19:36</sys_created_on>
+        <sys_id>9a704ce9471aa910c880d921236d43b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_update_name>sp_instance_9a704ce9471aa910c880d921236d43b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 00:19:36</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=9a704ce9471aa910c880d921236d43b9"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</application>
+        <file_path/>
+        <instance_id>e1ff2908db11a1980b9d21c405961979</instance_id>
+        <instance_name>dev154600</instance_name>
+        <name>sp_instance_9a704ce9471aa910c880d921236d43b9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">ceff73d9471aa910c880d921236d43b2</sp_column><sp_widget display_value="Topic Content">9c691d40c31030102ec1a589a840dd4c</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-19 00:19:36</sys_created_on><sys_id>9a704ce9471aa910c880d921236d43b9</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package><sys_policy/><sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope><sys_update_name>sp_instance_9a704ce9471aa910c880d921236d43b9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-19 00:19:36</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=9a704ce9471aa910c880d921236d43b9"/></record_update>]]></payload>
+        <payload_hash>-1696049238</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>4270922b478ae110c880d921236d431a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 00:19:36</sys_created_on>
+        <sys_id>26704ce9471aa910c880d921236d43bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18796e18d8c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 00:19:36</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>6e704ce9a71aa9102a245a3a3f50fcbb</update_guid>
+        <update_guid_history>6e704ce9a71aa9102a245a3a3f50fcbb:-1696049238</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">b39004e9471aa910c880d921236d432c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 00:20:15</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>2f9ec3840e6b4cf7a5bd02fbc9299941</sys_id>
+        <sys_metadata>9a704ce9471aa910c880d921236d43b9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_scope_delete display_value="">43c3f1660a324e80ad97b01d2e9ef9c4</sys_scope_delete>
+        <sys_update_name>sp_instance_9a704ce9471aa910c880d921236d43b9</sys_update_name>
+        <sys_update_version display_value="sp_instance_9a704ce9471aa910c880d921236d43b9">26704ce9471aa910c880d921236d43bc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 00:20:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

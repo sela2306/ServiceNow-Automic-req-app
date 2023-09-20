@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Book Service">d84daa7c47562910c880d921236d4339</sc_cat_item>
+        <sc_catalog display_value="Automic Car Catalog">7dbc123c47162910c880d921236d43a6</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-17 05:06:21</sys_created_on>
+        <sys_id>9beee2bc47562910c880d921236d431f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Automic Car Catalog.Book Sevice</sys_name>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_9beee2bc47562910c880d921236d431f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-17 05:06:21</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

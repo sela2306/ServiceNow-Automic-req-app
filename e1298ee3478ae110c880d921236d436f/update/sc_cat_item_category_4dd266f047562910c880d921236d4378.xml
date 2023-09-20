@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Seat Cover">8e8226f047562910c880d921236d4321</sc_cat_item>
+        <sc_category display_value="Car Accessories">c00d5e7c47162910c880d921236d43d8</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-17 04:13:30</sys_created_on>
+        <sys_id>4dd266f047562910c880d921236d4378</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Car Accessories.Seat Cover</sys_name>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_update_name>sc_cat_item_category_4dd266f047562910c880d921236d4378</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-17 04:13:30</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

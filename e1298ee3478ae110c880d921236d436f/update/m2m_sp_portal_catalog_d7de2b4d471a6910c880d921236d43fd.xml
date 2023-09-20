@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="Automic Car Catalog">7dbc123c47162910c880d921236d43a6</sc_catalog>
+        <sp_portal display_value="Automic Portal">f6c7430947966910c880d921236d43bb</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 04:24:10</sys_created_on>
+        <sys_id>d7de2b4d471a6910c880d921236d43fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Automic Car Catalog.Automic Portal</sys_name>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_d7de2b4d471a6910c880d921236d43fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-18 04:24:10</sys_updated_on>
+    </m2m_sp_portal_catalog>
+</record_update>

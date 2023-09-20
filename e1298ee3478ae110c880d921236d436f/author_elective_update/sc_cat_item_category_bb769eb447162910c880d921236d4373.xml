@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Wheel Cover">d264127447162910c880d921236d4321</sc_cat_item>
+        <sc_category display_value="Office">109cdff8c6112276003b17991a09ad65</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-17 03:19:37</sys_created_on>
+        <sys_id>bb769eb447162910c880d921236d4373</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office.Wheel Cover</sys_name>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_update_name>sc_cat_item_category_bb769eb447162910c880d921236d4373</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-17 03:19:37</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</application>
+        <file_path/>
+        <instance_id>e1ff2908db11a1980b9d21c405961979</instance_id>
+        <instance_name>dev154600</instance_name>
+        <name>sc_cat_item_category_bb769eb447162910c880d921236d4373</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Wheel Cover">d264127447162910c880d921236d4321</sc_cat_item><sc_category display_value="Office">109cdff8c6112276003b17991a09ad65</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-17 03:19:37</sys_created_on><sys_id>bb769eb447162910c880d921236d4373</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Office.Wheel Cover</sys_name><sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package><sys_policy/><sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope><sys_update_name>sc_cat_item_category_bb769eb447162910c880d921236d4373</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-17 03:19:37</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>2138727180</payload_hash>
+        <record_name>Office.Wheel Cover</record_name>
+        <reverted_from/>
+        <source>4270922b478ae110c880d921236d431a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-17 03:19:37</sys_created_on>
+        <sys_id>b3769eb447162910c880d921236d4377</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1878d39a29d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-17 03:19:37</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>3b769eb48c162910da447e60c65b7c76</update_guid>
+        <update_guid_history>3b769eb48c162910da447e60c65b7c76:2138727180</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">6ff696f447162910c880d921236d433d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-17 03:21:47</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>260ae2111ac049b4b3d00d7e88b17a44</sys_id>
+        <sys_metadata>bb769eb447162910c880d921236d4373</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office.Wheel Cover</sys_name>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_scope_delete display_value="">43c3f1660a324e80ad97b01d2e9ef9c4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_bb769eb447162910c880d921236d4373</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_bb769eb447162910c880d921236d4373">b3769eb447162910c880d921236d4377</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-17 03:21:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

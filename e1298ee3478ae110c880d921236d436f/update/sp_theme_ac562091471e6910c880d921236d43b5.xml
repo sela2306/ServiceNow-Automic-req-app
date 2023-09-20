@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_theme">
+    <sp_theme action="INSERT_OR_UPDATE">
+        <css_variables>$sp-logo-margin-x:    15px !default;
+$sp-tagline-color:    $text-color !default;
+$navbar-inverse-bg:   #3a3f51 !default;
+$navbar-inverse-link-color: #bdc0c4 !default;
+$navbar-inverse-link-hover-color: #ffffff !default;
+$body-bg:               #f0f3f4 !default;
+$dropdown-link-disabled-color: #ccc;</css_variables>
+        <footer display_value="Sample Footer">feb4f763df121200ba13a4836bf26320</footer>
+        <footer_fixed>true</footer_fixed>
+        <header display_value="Stock Header">bf5ec2f2cb10120000f8d856634c9c0c</header>
+        <name>Stock</name>
+        <navbar_fixed>true</navbar_fixed>
+        <sys_class_name>sp_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 08:48:26</sys_created_on>
+        <sys_id>ac562091471e6910c880d921236d43b5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Stock</sys_name>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_update_name>sp_theme_ac562091471e6910c880d921236d43b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-18 16:10:53</sys_updated_on>
+        <turn_off_scss_compilation>false</turn_off_scss_compilation>
+    </sp_theme>
+</record_update>

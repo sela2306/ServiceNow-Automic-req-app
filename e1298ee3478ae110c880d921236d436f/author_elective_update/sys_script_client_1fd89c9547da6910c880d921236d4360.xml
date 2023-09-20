@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Automic ClientScript</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+   //Type appropriate comment here, and begin script below
+	
+	var ga = new GlideAjax('AutomicScriptInclude');
+	ga.addParam('sysparm_name', 'getBookingDate');
+	ga.addParam('sysparm_booking_date', g_form.getValue('booking_date'));
+	ga.getXML(getRequiredInc);
+	
+	function getRequiredInc(response){
+		
+		var answer=response.responseXML.documentElement.getAttributes("answer");
+		if(answer > 1){
+			alert("Choose different date :" + answer);
+		}
+		
+	}
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 07:36:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1fd89c9547da6910c880d921236d4360</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Automic ClientScript</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_update_name>sys_script_client_1fd89c9547da6910c880d921236d4360</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-18 07:48:37</sys_updated_on>
+        <table>x_1040252_auto_req_automic_request</table>
+        <type>onSubmit</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</application>
+        <file_path/>
+        <instance_id>e1ff2908db11a1980b9d21c405961979</instance_id>
+        <instance_name>dev154600</instance_name>
+        <name>sys_script_client_1fd89c9547da6910c880d921236d4360</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Automic ClientScript&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onSubmit() {
+   //Type appropriate comment here, and begin script below
+	
+	var ga = new GlideAjax('AutomicScriptInclude');
+	ga.addParam('sysparm_name', 'getBookingDate');
+	ga.addParam('sysparm_booking_date', g_form.getValue('booking_date'));
+	ga.getXML(getRequiredInc);
+	
+	function getRequiredInc(response){
+		
+		var answer=response.responseXML.documentElement.getAttributes("answer");
+		if(answer &gt; 1){
+			alert("Choose different date :" + answer);
+		}
+		
+	}
+   
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-04-18 07:36:32&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;1fd89c9547da6910c880d921236d4360&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Automic ClientScript&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Automic Request App" source="x_1040252_auto_req"&gt;e1298ee3478ae110c880d921236d436f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Automic Request App"&gt;e1298ee3478ae110c880d921236d436f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_1fd89c9547da6910c880d921236d4360&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-04-18 07:48:37&lt;/sys_updated_on&gt;&lt;table&gt;x_1040252_auto_req_automic_request&lt;/table&gt;&lt;type&gt;onSubmit&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1657179274</payload_hash>
+        <record_name>Automic ClientScript</record_name>
+        <reverted_from/>
+        <source>4270922b478ae110c880d921236d431a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 07:48:37</sys_created_on>
+        <sys_id>caad189947da6910c880d921236d4313</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187935647540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-18 07:48:37</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>c2ad189979da6910ebb90294a634e313</update_guid>
+        <update_guid_history>c2ad189979da6910ebb90294a634e313:-1657179274,ad8b9c19b0da6910aa9c573f22160a5f:-1616532924,b8ea5c9587da6910bfae247c9a5992f0:1895634034</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 10:39:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>0c89a93e156d44dc88f84395c8edc490</sys_id>
+        <sys_metadata>1fd89c9547da6910c880d921236d4360</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Automic ClientScript</sys_name>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_parent display_value="Automic Request">248d422b478ae110c880d921236d43c9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_scope_delete display_value="">43c3f1660a324e80ad97b01d2e9ef9c4</sys_scope_delete>
+        <sys_update_name>sys_script_client_1fd89c9547da6910c880d921236d4360</sys_update_name>
+        <sys_update_version display_value="sys_script_client_1fd89c9547da6910c880d921236d4360">caad189947da6910c880d921236d4313</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-18 10:39:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

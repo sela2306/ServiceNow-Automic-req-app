@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ca4ffa2f9766611076aebe80f053af1c" extends="sys_import_set_row" label="Automic Import Set Table" max_length="40" name="x_1040252_auto_req_automic_import_set_table" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Booking Date" label="Booking Date" max_length="40" name="u_booking_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Email" label="Email" max_length="40" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=First Name" label="First Name" max_length="40" name="u_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Last Name" label="Last Name" max_length="40" name="u_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Phone Number" label="Phone Number" max_length="40" name="u_phone_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Registration No" label="Registration No" max_length="40" name="u_registration_no" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Type of Service" label="Type of Service" max_length="40" name="u_type_of_service" type="string"/>
+    </element>
+</database>

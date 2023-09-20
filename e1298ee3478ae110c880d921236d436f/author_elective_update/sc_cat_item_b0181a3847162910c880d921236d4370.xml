@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="DELETE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category/>
+        <checked_out>false</checked_out>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-01 00:00:00</delivery_time>
+        <description><![CDATA[<ul style="list-style-type: none; list-style-position: inside;"><li style="font-size: 12pt;"><span style="font-size: 12pt;">Designed to fit most vehicles, with a slip-on stretch fit for easy installation.</span></li><li style="font-size: 12pt;"><span style="font-size: 12pt;">Approximately 380mm (15&#34;) diameter.</span></li><li style="font-size: 12pt;"><span style="font-size: 12pt;">Made from genuine leather.</span></li><li style="font-size: 12pt;"> </li><li> </li><li> </li></ul>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow display_value="Service Catalog item request">30f3d26187e92300e0ef0cf888cb0b91</flow_designer_flow>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Steering Wheel Covers</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>true</no_cart_v2>
+        <no_delivery_time_v2>true</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>true</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>true</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture>4a19927847162910c880d921236d4397</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=b0181a3847162910c880d921236d4370&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method>submit</request_method>
+        <roles/>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template display_value="Standard items in Service Catalog">dab9529cbd002010f8775d9559d0dab6</sc_template>
+        <short_description>Protects steering wheel from sun damage, and helps to keep the steering wheel cool</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state>published</state>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-17 03:31:15</sys_created_on>
+        <sys_id>b0181a3847162910c880d921236d4370</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Steering Wheel Covers</sys_name>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_update_name>sc_cat_item_b0181a3847162910c880d921236d4370</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-17 04:42:24</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="DELETE" query="documentkey=b0181a3847162910c880d921236d4370"/>
+    <fx_price action="DELETE" query="id=b0181a3847162910c880d921236d4370"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>b0181a3847162910c880d921236d4370</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-17 03:31:15</sys_created_on>
+        <sys_id>96295a7847162910c880d921236d4322</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-17 03:31:15</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="DELETE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>Steer wheel1.png</file_name>
+        <hash>825468b093f1c85df526b0c938230c1b74081db0b189c6ab00569fb85f561320</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>4989</size_bytes>
+        <size_compressed>5012</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-17 03:30:58</sys_created_on>
+        <sys_id>4a19927847162910c880d921236d4397</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-17 03:31:00</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>b0181a3847162910c880d921236d4370</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="DELETE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="Steer wheel1.png" sys_id="4a19927847162910c880d921236d4397">4a19927847162910c880d921236d4397</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-17 03:30:58</sys_created_on>
+        <sys_id>8a19927847162910c880d921236d4397</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="DELETE">
+        <data>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</data>
+        <length>6672</length>
+        <position>1</position>
+        <sys_attachment display_value="Steer wheel1.png" sys_id="4a19927847162910c880d921236d4397">4a19927847162910c880d921236d4397</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-17 03:30:58</sys_created_on>
+        <sys_id>0e19927847162910c880d921236d4397</sys_id>
+    </sys_attachment_doc>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</application>
+        <file_path/>
+        <instance_id>e1ff2908db11a1980b9d21c405961979</instance_id>
+        <instance_name>dev154600</instance_name>
+        <name>sc_cat_item_b0181a3847162910c880d921236d4370</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item"&gt;&lt;sc_cat_item action="INSERT_OR_UPDATE"&gt;&lt;access_type&gt;restricted&lt;/access_type&gt;&lt;active&gt;true&lt;/active&gt;&lt;availability&gt;on_desktop&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;category/&gt;&lt;checked_out&gt;false&lt;/checked_out&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan/&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-01 00:00:00&lt;/delivery_time&gt;&lt;description&gt;&lt;![CDATA[&lt;ul style="list-style-type: none; list-style-position: inside;"&gt;&lt;li style="font-size: 12pt;"&gt;&lt;span style="font-size: 12pt;"&gt;Designed to fit most vehicles, with a slip-on stretch fit for easy installation.&lt;/span&gt;&lt;/li&gt;&lt;li style="font-size: 12pt;"&gt;&lt;span style="font-size: 12pt;"&gt;Approximately 380mm (15&amp;#34;) diameter.&lt;/span&gt;&lt;/li&gt;&lt;li style="font-size: 12pt;"&gt;&lt;span style="font-size: 12pt;"&gt;Made from genuine leather.&lt;/span&gt;&lt;/li&gt;&lt;li style="font-size: 12pt;"&gt; &lt;/li&gt;&lt;li&gt; &lt;/li&gt;&lt;li&gt; &lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/description&gt;&lt;display_price_property&gt;non_zero&lt;/display_price_property&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow display_value="Service Catalog item request"&gt;30f3d26187e92300e0ef0cf888cb0b91&lt;/flow_designer_flow&gt;&lt;fulfillment_automation_level&gt;unspecified&lt;/fulfillment_automation_level&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon/&gt;&lt;ignore_price&gt;true&lt;/ignore_price&gt;&lt;image/&gt;&lt;location/&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta/&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;Steering Wheel Covers&lt;/name&gt;&lt;no_attachment_v2&gt;false&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;true&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;true&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;true&lt;/no_quantity_v2&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;true&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;owner display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/owner&gt;&lt;picture&gt;4a19927847162910c880d921236d4397&lt;/picture&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;amp;sysparm_id=b0181a3847162910c880d921236d4370&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;price&gt;0&lt;/price&gt;&lt;published_ref/&gt;&lt;recurring_frequency/&gt;&lt;request_method&gt;submit&lt;/request_method&gt;&lt;roles/&gt;&lt;sc_catalogs/&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;sc_template display_value="Standard items in Service Catalog"&gt;dab9529cbd002010f8775d9559d0dab6&lt;/sc_template&gt;&lt;short_description&gt;Protects steering wheel from sun damage, and helps to keep the steering wheel cool&lt;/short_description&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;state&gt;published&lt;/state&gt;&lt;sys_class_name&gt;sc_cat_item&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-04-17 03:31:15&lt;/sys_created_on&gt;&lt;sys_id&gt;b0181a3847162910c880d921236d4370&lt;/sys_id&gt;&lt;sys_mod_count&gt;9&lt;/sys_mod_count&gt;&lt;sys_name&gt;Steering Wheel Covers&lt;/sys_name&gt;&lt;sys_package display_value="Automic Request App" source="x_1040252_auto_req"&gt;e1298ee3478ae110c880d921236d436f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Automic Request App"&gt;e1298ee3478ae110c880d921236d436f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_b0181a3847162910c880d921236d4370&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-04-17 04:42:24&lt;/sys_updated_on&gt;&lt;taxonomy_topic/&gt;&lt;template/&gt;&lt;template_manager_roles/&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=b0181a3847162910c880d921236d4370"/&gt;&lt;fx_price action="delete_multiple" query="id=b0181a3847162910c880d921236d4370"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price&lt;/field&gt;&lt;id&gt;b0181a3847162910c880d921236d4370&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-04-17 03:31:15&lt;/sys_created_on&gt;&lt;sys_id&gt;96295a7847162910c880d921236d4322&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-04-17 03:31:15&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;sys_attachment action="INSERT_OR_UPDATE"&gt;&lt;average_image_color/&gt;&lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;&lt;compressed&gt;true&lt;/compressed&gt;&lt;content_type&gt;image/png&lt;/content_type&gt;&lt;file_name&gt;Steer wheel1.png&lt;/file_name&gt;&lt;hash&gt;825468b093f1c85df526b0c938230c1b74081db0b189c6ab00569fb85f561320&lt;/hash&gt;&lt;image_height/&gt;&lt;image_width/&gt;&lt;size_bytes&gt;4989&lt;/size_bytes&gt;&lt;size_compressed&gt;5012&lt;/size_compressed&gt;&lt;state&gt;available&lt;/state&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-04-17 03:30:58&lt;/sys_created_on&gt;&lt;sys_id&gt;4a19927847162910c880d921236d4397&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-04-17 03:31:00&lt;/sys_updated_on&gt;&lt;table_name&gt;ZZ_YYsc_cat_item&lt;/table_name&gt;&lt;table_sys_id&gt;b0181a3847162910c880d921236d4370&lt;/table_sys_id&gt;&lt;/sys_attachment&gt;&lt;sys_attachment_doc action="INSERT_OR_UPDATE"&gt;&lt;data&gt;H4sIAAAAAAAAAA==&lt;/data&gt;&lt;length&gt;16&lt;/length&gt;&lt;position&gt;0&lt;/position&gt;&lt;sys_attachment display_value="Steer wheel1.png" sys_id="4a19927847162910c880d921236d4397"&gt;4a19927847162910c880d921236d4397&lt;/sys_attachment&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-04-17 03:30:58&lt;/sys_created_on&gt;&lt;sys_id&gt;8a19927847162910c880d921236d4397&lt;/sys_id&gt;&lt;/sys_attachment_doc&gt;&lt;sys_attachment_doc action="INSERT_OR_UPDATE"&gt;&lt;data&gt;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&lt;/data&gt;&lt;length&gt;6672&lt;/length&gt;&lt;position&gt;1&lt;/position&gt;&lt;sys_attachment display_value="Steer wheel1.png" sys_id="4a19927847162910c880d921236d4397"&gt;4a19927847162910c880d921236d4397&lt;/sys_attachment&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-04-17 03:30:58&lt;/sys_created_on&gt;&lt;sys_id&gt;0e19927847162910c880d921236d4397&lt;/sys_id&gt;&lt;/sys_attachment_doc&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>0</payload_hash>
+        <record_name>Steering Wheel Covers</record_name>
+        <reverted_from/>
+        <source>4270922b478ae110c880d921236d431a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-17 04:42:24</sys_created_on>
+        <sys_id>2079e6b847562910c880d921236d4335</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1878d856e960000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-17 04:42:24</sys_updated_on>
+        <type>Catalog Item</type>
+        <update_guid>2879e6b8fa562910994116245c259234</update_guid>
+        <update_guid_history>2879e6b8fa562910994116245c259234:-349788013,23699e785d16291023c170d19900b6ea:1664744404,a3699e78e3162910d587c1b628be3ce3:-611308469,3c591e7803162910bf0c3e65c953fb7c:-1260866105,a6399a78ed162910b8f36209da81738f:-366696250,1a295a78ab1629104ab3c4d6bf63c433:416652232,92295a78181629109fd01bcd421fc825:-1455565003</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">a079e6b847562910c880d921236d4361</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-17 04:42:25</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item">sc_cat_item</sys_db_object>
+        <sys_id>6f8635fc30484fa28d51daa4f3c133f9</sys_id>
+        <sys_metadata>b0181a3847162910c880d921236d4370</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Steering Wheel Covers</sys_name>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_scope_delete display_value="">43c3f1660a324e80ad97b01d2e9ef9c4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_b0181a3847162910c880d921236d4370</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_b0181a3847162910c880d921236d4370">2079e6b847562910c880d921236d4335</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-17 04:42:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

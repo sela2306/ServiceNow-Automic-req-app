@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="What type of service required?">468672f447962910c880d921236d439c</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-17 05:57:38</sys_created_on>
+        <sys_id>099a3ab847962910c880d921236d430d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Maitenance/Repair</sys_name>
+        <sys_package display_value="Automic Request App" source="x_1040252_auto_req">e1298ee3478ae110c880d921236d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automic Request App">e1298ee3478ae110c880d921236d436f</sys_scope>
+        <sys_update_name>question_choice_099a3ab847962910c880d921236d430d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-17 05:57:38</sys_updated_on>
+        <text>Maitenance/Repair</text>
+        <value/>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=099a3ab847962910c880d921236d430d"/>
+</record_update>
